@@ -49,7 +49,7 @@ public class QuestionBank {
                 new Question(
                         "*:hover { display :none;}",
                         Arrays.asList(
-                                "C'est pas gentille",
+                                "C'est pas gentil",
                                 "C'est du bon code ça ",
                                 "20% de remise sur le nutella chez Auchan",
                                 "C'est du C++ ! "
