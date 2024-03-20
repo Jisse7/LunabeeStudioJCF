@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lunabee Studio</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jouons">Jouons !</string>
+    <string name="entrez_votre_nom">Entrez votre nom</string>
+    <string name="quel_est_votre_nom">Quel est votre nom ?</string>
+    <string name="lunabee_studio_quizz">Lunabee Studio Quiz</string>
+    <string name="jissé_f">Jissé F.</string>
+    <string name="suivant">Suivant</string>
+    <string name="bonne_r_ponse">Bonne réponse! 💪</string>
+    <string name="mauvaise_r_ponse">Mauvaise réponse 😢</string>
+    <string name="jiss_f">Jissé F</string>
+
+    <string name="la_simplicit_est_la_marque_de_la_v_ritable_intelligence">La simplicité est la marque de la véritable intelligence</string>
+</resources>
